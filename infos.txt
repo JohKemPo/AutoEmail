@@ -1,0 +1,5 @@
+user = "joaovitormoraesjp@gmail.com"
+password = "8GVRUA7T"
+remet = "joaovitormoraesjp@gmail.com"
+name_arq = "PassWrd"
+data_atual = "sim"
